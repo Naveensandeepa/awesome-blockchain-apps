@@ -34,7 +34,6 @@ The idea behind a DEX is "disintermediation," which means removing middlemen to 
 
 
 ### Initial DEX Offering
-
 An initial DEX offering, or IDO, is a new and exciting type of decentralized and permissionless crowdfunding platform, which is opening up a new way of fundraising in the crypto space. 
 If a project is launching an IDO, it means the project is launching a coin or token via a decentralized liquidity exchange. This is a type of crypto asset exchange that depends on liquidity pools where traders can swap tokens, including crypto coins and stablecoins. For instance, USDT/ETH is a liquidity pair. [from](https://coinmarketcap.com/alexandria/article/what-is-an-initial-dex-offering-ido-and-why-do-we-need-them)
 
@@ -48,6 +47,7 @@ If a project is launching an IDO, it means the project is launching a coin or to
 | [AtomPad](https://www.atompad.io/) |  All|     |
 
 ###  NFT Market Spaces
+An NFT marketplace is a digital platform for buying and selling NFTs. These platforms allow people to store and display their NFTs plus sell them to others for cryptocurrency or money. Some NFT marketplaces also allow users to mint their NFTs on the platform itself. [from](https://www.forbes.com/advisor/investing/cryptocurrency/best-nft-marketplaces/)
 
 | Name   |      Support      |  Community |
 |----------|:-------------:|------:|
@@ -57,6 +57,7 @@ If a project is launching an IDO, it means the project is launching a coin or to
 | Foundation |  |   ![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)  |
 
 ###  Decentralized Autonomous Organization
+A decentralized autonomous organization (DAO) is an entity with no central leadership. Decisions get made from the bottom-up, governed by a community organized around a specific set of rules enforced on a blockchain. [from](https://cointelegraph.com/decentralized-automated-organizations-daos-guide-for-beginners/what-is-decentralized-autonomous-organization-and-how-does-a-dao-work) 
 
 | Name   |      Token      |   Deescription | Community |
 |----------|:-------------:|----------------:|---------:|
