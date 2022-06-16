@@ -17,8 +17,8 @@ Exchanges are essentially marketplaces. They are useful when a large number of p
 | Name   |      Token      |  Community |
 |----------|:-------------:|------:|
 | [Binance](https://binance.com/) |  BNB |  <a href="https://twitter.com/binance" target="blank"><img align="center" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"/></a> |
-| [Kucoin](https://kucoin.com) |    Kucoin   |    |
-| [FTX](https://ftx.com)| Multi Chain |     |
+| [Kucoin](https://kucoin.com) |    Kucoin   |  <a href="https://twitter.com/kucoincom" target="blank"><img align="center" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"/></a>  |
+| [FTX](https://ftx.com)| Multi Chain |  <a href="https://twitter.com/FTX_Official" target="blank"><img align="center" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"/></a>    |
 
 
 ### Decentralize Exchanges
@@ -28,9 +28,9 @@ The idea behind a DEX is "disintermediation," which means removing middlemen to 
 
 | Name   |      Plaform      |  Community |
 |----------|:-------------:|------:|
-| [Uniswap](https://uniswap.org/) |  Etherium |  |
-| [PancakeSwap](https://pancakeswap.finance) |    Binane Smart Chain   |    |
-| 0x Protocol | Multi Chain |     |
+| [Uniswap](https://uniswap.org/) |  Etherium |  <a href="https://twitter.com/Uniswap" target="blank"><img align="center" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"/></a> |
+| [PancakeSwap](https://pancakeswap.finance) |    Binance Smart Chain   |   <a href="https://twitter.com/PancakeSwap" target="blank"><img align="center" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"/></a>  |
+| 0x Protocol | Multi Chain |  <a href="https://twitter.com/0xproject" target="blank"><img align="center" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"/></a>   |
 
 
 ### Initial DEX Offering
@@ -67,7 +67,10 @@ A decentralized autonomous organization (DAO) is an entity with no central leade
 |Curve DAO|         | | |
 |BitDAO |         | | |
 
-## Internet of Things
+### Internet of Things
+The internet of things, or IoT, is a system of interrelated computing devices, mechanical and digital machines, objects, animals or people that are provided with unique identifiers (UIDs) and the ability to transfer data over a network without requiring human-to-human or human-to-computer interaction. [from](https://www.techtarget.com/iotagenda/definition/Internet-of-Things-IoT)
+Blockchain empowers the IoT devices to enhance security and bring transparency in IoT ecosystems.And also Blockchain offers a scalable and decentralized environment to IoT devices, platforms, and applications. [from](https://www.leewayhertz.com/blockchain-iot-use-cases-real-world-products/) 
+
 IOT
 
 | Name   |      Description      |  Community |
@@ -77,14 +80,14 @@ IOT
 |[ Xage Security](https://xage.com/)|focus of Xage Security on different industries such as transportation, agriculture, utilities, and energy proves a lot about its functionality. ||
 |[ Grid+](https://gridplus.io/)|Grid+ app offers updated information regarding energy usage with the company’s smart meter connected wirelessly to energy-efficient smart devices.||
 
-## Move to Earn
+### Move to Earn
 Allows users to get cryptocurrency rewards from walking or jogging
 | Name   |  Token |     Description      |  Community | Network |
 |--------|:-------|:---------------------:|----------:|--------:|
 |[SweatCoin](https://sweatco.in/)| SWEAT | Sweatcoin is a free app which rewards your daily steps with a new-generation currency you can spend on cool products, donate to charity or convert into SWEAT.| <a href="https://discord.gg/sweateconomy" target="blank"><img align="center" src="https://img.shields.io/badge/%3CServer%3E-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white"/></a>  | Near |
 
-## Cryptography
-
+### Cryptography
+Cryptography is the method of securing important data from unauthorized access. In the blockchain, cryptographic techniques are a part of security protocols. It secures a transaction taking place between two nodes in a blockchain network. [from] (https://data-flair.training/blogs/blockchain-cryptography/)
 | Name   |  Token |     Description      |  Network | 
 |--------|:-------|:---------------------:|----------:|
 |[Nucypher](https://www.nucypher.com/) | Nu | Cryptographic Infrastructure for Privacy-Preserving Applications   - Manage infrastructure secrets across dynamic environments. - Dynamic access control | NuCypher|
