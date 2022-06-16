@@ -39,12 +39,12 @@ If a project is launching an IDO, it means the project is launching a coin or to
 
 | Name   |      category     |  Community |
 |----------|:-------------:|------:|
-| [Gamefi Aggrigator](https://gamefi.org/) |  Games |  |
-| [IDO Scan](https://idoscan.dev/) |    All   |    |
-| [Tron Pad](https://tronpad.network/) |  |     |
-| [Starpunk](https://starpunk.io/) |  Games|     |
-| [Invest Dex](https://investdex.io/) |  Defi|     |
-| [AtomPad](https://www.atompad.io/) |  All|     |
+| [Gamefi Aggrigator](https://gamefi.org/) |  Games | <a href="https://twitter.com/GameFi_Official" target="blank"><img align="center" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"/></a> <a href="https://discord.com/invite/gamefi" target="blank"><img align="center" src="https://img.shields.io/badge/%3CServer%3E-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white"/></a>|
+| [IDO Scan](https://idoscan.dev/) |    All   |  <a href="http://twitter.com/ido_scan" target="blank"><img align="center" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"/></a>  |
+| [Tron Pad](https://tronpad.network/) |  |  <a href="https://twitter.com/Tronpadofficial" target="blank"><img align="center" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"/></a>   |
+| [Starpunk](https://starpunk.io/) |  Games|   <a href="https://twitter.com/starpunkgame" target="blank"><img align="center" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"/></a>  |
+| [Invest Dex](https://investdex.io/) |  Defi|  <a href="https://twitter.com/InvestDexio" target="blank"><img align="center" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"/></a>   |
+| [AtomPad](https://www.atompad.io/) |  All|    <a href="https://twitter.com/atompad_io?t=pYx-rXgwMNQ9Hst-eU3umQ&s=09" target="blank"><img align="center" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"/></a> |
 
 ###  NFT Market Spaces
 An NFT marketplace is a digital platform for buying and selling NFTs. These platforms allow people to store and display their NFTs plus sell them to others for cryptocurrency or money. Some NFT marketplaces also allow users to mint their NFTs on the platform itself. [from](https://www.forbes.com/advisor/investing/cryptocurrency/best-nft-marketplaces/)
