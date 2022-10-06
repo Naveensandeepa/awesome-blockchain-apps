@@ -17,7 +17,7 @@ Exchanges are essentially marketplaces. They are useful when a large number of p
 | Name   |      Token      |  Community |
 |----------|:-------------:|------:|
 | [Binance](https://binance.com/) |  BNB |  <a href="https://twitter.com/binance" target="blank"><img align="center" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"/></a> <a href="https://discord.com/invite/vKNp6qxw7a" target="blank"><img align="center" src="https://img.shields.io/badge/%3CServer%3E-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white"/></a>|
-| [Kucoin](https://kucoin.com) |    Kucoin   |  <a href="https://twitter.com/kucoincom" target="blank"><img align="center" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"/></a>  |
+| [Kucoin](https://kucoin.com) |    Kucoin   |  <a href="https://twitter.com/kucoincom" target="blank"><img align="center" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"/></a> <a href="https://discord.com/invite/kucoinofficial" target="blank"><img align="center" src="https://img.shields.io/badge/%3CServer%3E-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white"/></a> |
 | [FTX](https://ftx.com)| FTT |  <a href="https://twitter.com/FTX_Official" target="blank"><img align="center" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"/></a>    |
 
 
@@ -31,7 +31,6 @@ The idea behind a DEX is "disintermediation," which means removing middlemen to 
 | [Uniswap](https://uniswap.org/) |  Etherium |  <a href="https://twitter.com/Uniswap" target="blank"><img align="center" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"/></a> <a href="https://discord.gg/FCfyBSbCU5" target="blank"><img align="center" src="https://img.shields.io/badge/%3CServer%3E-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white"/></a> |
 | [PancakeSwap](https://pancakeswap.finance) |    Binance Smart Chain   |   <a href="https://twitter.com/PancakeSwap" target="blank"><img align="center" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"/></a> <a href="https://discord.gg/pancakeswap" target="blank"><img align="center" src="https://img.shields.io/badge/%3CServer%3E-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white"/></a>  |
 | [0x Protocol](https://www.0x.org/) | Multi Chain |  <a href="https://twitter.com/0xproject" target="blank"><img align="center" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"/></a>  <a href="https://t.co/RBGtZXKlR4" target="blank"><img align="center" src="https://img.shields.io/badge/%3CServer%3E-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white"/></a> |
-
 
 ### Initial DEX Offering
 An initial DEX offering, or IDO, is a new and exciting type of decentralized and permissionless crowdfunding platform, which is opening up a new way of fundraising in the crypto space. 
